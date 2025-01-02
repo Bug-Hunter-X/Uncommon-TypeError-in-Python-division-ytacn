@@ -1,0 +1,1 @@
+This repository contains a demonstration of an uncommon TypeError that can occur in Python when performing division. The bug.py file shows the erroneous code, which attempts to divide a string by an integer.  The bugSolution.py file provides a corrected version with input validation.
